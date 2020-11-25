@@ -29,7 +29,7 @@
 
 <img align="left" alt="Mis estadisticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=MDCYT&show_icons=true&hide_border=true&theme=radical&locale=es" />
 
-[![Horas de Trabajo](https://github-readme-stats.vercel.app/api/wakatime?username=MDC&theme=radical&custom_title=Horas%20de%20trabajo%20esta%20semana)](https://github.com/MDCYT)
+[![Horas de Trabajo](https://github-readme-stats.vercel.app/api/wakatime?username=@MDC&theme=radical&custom_title=Horas%20de%20trabajo%20esta%20semana)](https://github.com/MDCYT)
 
 
 [website]: https://mycommand.xyz
