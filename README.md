@@ -36,4 +36,4 @@
 [twitter]: https://twitter.com/software_mdc
 [twitch]: https://www.twitch.tv/mdc_yt
 
-<img align="center" src="https://github.com/MDCYT/MDCYT/blob/master/dino.gif?raw=true">
+<img align="center" src="https://github.com/MDCYT/MDCYT/blob/main/dino.gif?raw=true">
