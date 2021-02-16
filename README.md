@@ -41,6 +41,7 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Speedrun Catastrophe Crow (Crow 64) 2:32.82 %Ship](https://www.youtube.com/watch?v=n4FCgbXEy1w)
 - [Speedrun Catastrophe Crow 4:40.62 %Coins](https://www.youtube.com/watch?v=K7A-86kIntI)
 - [Joder que buen server (Clip de: @Zombi Jugador)](https://www.youtube.com/watch?v=93gwtERhho0)
 - [Jaja ta tonto el Hiriam](https://www.youtube.com/watch?v=e6RYun1myhs)
