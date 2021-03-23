@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/Notavone/discord-panel/pull/43) in [Notavone/discord-panel](https://github.com/Notavone/discord-panel)
+1. 🗣 Commented on [#1](https://github.com/MDCYT/Any-Bot/issues/1) in [MDCYT/Any-Bot](https://github.com/MDCYT/Any-Bot)
 <!--END_SECTION:activity-->
 
 </details>
