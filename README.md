@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Jugando FNF con mods peruanos](https://www.youtube.com/watch?v=NYVp1N9662Y)
 - [Jugando FNF Completo con el mod de Sarvent](https://www.youtube.com/watch?v=ZQ6oIL_uA94)
 - [Solucionando Bugs de Friday Night Funkin' | Parte 2 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=Sb3QtV1EsZs)
 - [Como hacer tu propia Semana en Friday Night Funkin' | Parte 1 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=ykWAaO33Tnw)
 - [Speedrun Catastrophe Crow (Crow 64) 2:32.82 %Ship](https://www.youtube.com/watch?v=n4FCgbXEy1w)
-- [Speedrun Catastrophe Crow 4:40.62 %Coins](https://www.youtube.com/watch?v=K7A-86kIntI)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
