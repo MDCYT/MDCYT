@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Deseenme suerte aaaaaa](https://www.youtube.com/watch?v=Q3B3X646G4M)
 - [Un mensaje para todos los que esperan el tutorial](https://www.youtube.com/watch?v=EI9sc7pN15s)
 - [Jugando FNF con mods peruanos](https://www.youtube.com/watch?v=1Y9W76EqCdw)
 - [Jugando FNF en Roblox con seguidores](https://www.youtube.com/watch?v=NYVp1N9662Y)
 - [Jugando FNF Completo con el mod de Sarvent](https://www.youtube.com/watch?v=ZQ6oIL_uA94)
-- [Solucionando Bugs de Friday Night Funkin' | Parte 2 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=Sb3QtV1EsZs)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
