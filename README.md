@@ -45,7 +45,7 @@
 - [Ya se viene](https://www.youtube.com/watch?v=wWoeska77Yk)
 - [Parte 3 del tutorial sin editar](https://www.youtube.com/watch?v=o6DqqL02IMI)
 - [Mi grabación anda valiendo vergaaaaaa](https://www.youtube.com/watch?v=llQ9USjGkyg)
-- [Ayudando a la gente a modear su FNF y jugando.](https://www.youtube.com/watch?v=irtwape_itg)
+- [Jugando B-Side, Neon, Whitty y todo el FNF.](https://www.youtube.com/watch?v=irtwape_itg)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
