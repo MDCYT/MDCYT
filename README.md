@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Instalación de Friday Night Funkin' | Parte 1 de como modear Friday Night Funkin' (Actualizado)](https://www.youtube.com/watch?v=-bQ6x0r86bI)
 - [Jugando B-Side, Neon, Whitty y todo el FNF.](https://www.youtube.com/watch?v=irtwape_itg)
 - [Personajes personalizados en FNF | Parte 3 de como modear Friday Night Funkin' (Leer descripción)](https://www.youtube.com/watch?v=h8jDq_9VNB4)
 - [Ya se viene](https://www.youtube.com/watch?v=wWoeska77Yk)
 - [Parte 3 del tutorial sin editar](https://www.youtube.com/watch?v=o6DqqL02IMI)
-- [VAMOS LOS PIBESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS](https://www.youtube.com/watch?v=MhR6aFwJ_mc)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
