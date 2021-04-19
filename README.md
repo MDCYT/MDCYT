@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [INTENTANDO JUGAR LA SEMANA 7 DE FNF XD](https://www.youtube.com/watch?v=iaNX_yjdFbg)
 - [FNF Full Week 7 + Cutscenes](https://www.youtube.com/watch?v=8N74l55Ds7E)
 - [Minecraft, pero juego en directo (Alto título)](https://www.youtube.com/watch?v=yiHCDkVwvGQ)
 - [Personajes Friday Night Funkin' | Parte 2 de como modear Friday Night Funkin' (Actualizado)](https://www.youtube.com/watch?v=gA_P5sXEVS8)
 - [FNF pero con mods de suscriptores](https://www.youtube.com/watch?v=gVUlmQawCW8)
-- [Jugando Minecraft](https://www.youtube.com/watch?v=-v92_SkGw4I)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
