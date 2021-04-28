@@ -6,7 +6,7 @@
 ## Soy un desarrollador web, vendedor de hosting web, y programador basico en node.js!
 
 - 🔭 Actualmente estoy trabajando en [My Command Hosting](https://shop.mycommand.xyz)!
-- 🌱 Actualmente en 4to de Secundaria
+- 🌱 Actualmente en 5to de Secundaria
 - 👯 Siempre dispuesto a aprender más
 - 🥅 Metas 2020-2021: Lanzar al publico [My Command Hosting](https://shop.mycommand.xyz)
 
