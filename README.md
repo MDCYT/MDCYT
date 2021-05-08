@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Torneo NO-Oficial FNF ROBLOX](https://www.youtube.com/watch?v=JY6j1QpzMzY)
 - [Escenarios e Inicio Friday Night Funkin' | Parte 4 de como modear Friday Night Funkin' (Actualizado)](https://www.youtube.com/watch?v=5wWjYv6CJaw)
 - [FNF MOD - Vs Darkon FULL WEEK (Full Song)](https://www.youtube.com/watch?v=hPLmCON4ihM)
 - [Torneo NO-Oficial FNF ROBLOX](https://www.youtube.com/watch?v=pcYPysKLZ1A)
 - [Semanas y Canciones Friday Night Funkin' | Parte 3 de como modear Friday Night Funkin' (Actualizado)](https://www.youtube.com/watch?v=f43ckGUWrcw)
-- [Resubiendo Tiktoks porque se me acabo el contenido Parte 1](https://www.youtube.com/watch?v=AaoVkAV8zR0)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
