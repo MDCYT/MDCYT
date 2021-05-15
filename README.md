@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Starring Star - Sugar.](https://www.youtube.com/watch?v=UR9t1L53_Ug)
 - [Los 60 segundos más estresantes de mi semana.](https://www.youtube.com/watch?v=rIcSiQ_i5lM)
 - [La boda de Fran y Emi en Minecraft (mc.revenant.us)](https://www.youtube.com/watch?v=JMXzHBPlgNc)
 - [Torneo NO-Oficial FNF ROBLOX](https://www.youtube.com/watch?v=JY6j1QpzMzY)
 - [Escenarios e Inicio Friday Night Funkin' | Parte 4 de como modear Friday Night Funkin' (Actualizado)](https://www.youtube.com/watch?v=5wWjYv6CJaw)
-- [FNF MOD - Vs Darkon FULL WEEK (Full Song)](https://www.youtube.com/watch?v=hPLmCON4ihM)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
