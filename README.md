@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MDCYT/MDCDEV/pull/1) in [MDCYT/MDCDEV](https://github.com/MDCYT/MDCDEV)
+1. 🎉 Merged PR [#1](https://github.com/MDCYT/MDC-Engine/pull/1) in [MDCYT/MDC-Engine](https://github.com/MDCYT/MDC-Engine)
 <!--END_SECTION:activity-->
 
 </details>
