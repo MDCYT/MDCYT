@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MDCYT/MDC-Engine/pull/1) in [MDCYT/MDC-Engine](https://github.com/MDCYT/MDC-Engine)
+1. 🎉 Merged PR [#3](https://github.com/MDCYT/Funkin-Master-Modded/pull/3) in [MDCYT/Funkin-Master-Modded](https://github.com/MDCYT/Funkin-Master-Modded)
 <!--END_SECTION:activity-->
 
 </details>
