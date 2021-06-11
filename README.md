@@ -1,7 +1,7 @@
 ### Hola, soy José Antonio Ortiz Férnandez 👋
 
 [![Website](https://img.shields.io/website?label=mycommand.xyz&style=for-the-badge&url=https%3A%2F%2Fmycommand.xyz)](https://mycommand.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/software_mdc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMDCYT&screen_name=software_mdc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FridayProblems?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMDCYT&screen_name=software_mdc)
 
 ## Soy un desarrollador web, vendedor de hosting web, y programador basico en node.js!
 
