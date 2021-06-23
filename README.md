@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Cinematicas | Parte 7 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=4C7p4RgF2nA)
 - [Jugando Fortnite pero Furro (y 2d jsjs)](https://www.youtube.com/watch?v=sLWyzm1vqhg)
 - [Mod FNF - Speedrun Any% PT2](https://www.youtube.com/watch?v=vX3tpmLsII4)
 - [Mod FNF - Speedrun Any%](https://www.youtube.com/watch?v=X9zklwBzDPg)
 - [Haciendo un mod de FNF, o sea el juego que juega la chaviza, pero de Doki](https://www.youtube.com/watch?v=HNTG5rUhnsc)
-- [Diálogos,  BF, Special Frames, etc | Parte 6 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=BVC3Fw7gB_8)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
