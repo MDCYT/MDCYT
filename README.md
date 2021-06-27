@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Jugando FNF Mods en Directo](https://www.youtube.com/watch?v=gpWq0Un4mbg)
 - [Programando con el MDC | Parte 1 (Variables, Tipos de Datos y Switch) - Node.js](https://www.youtube.com/watch?v=IxZRorvz9F4)
 - [Programando un mod de FNF](https://www.youtube.com/watch?v=lQgDN8LfIk0)
 - [Kappi RTX (Vs Pikaboss Beta)](https://www.youtube.com/watch?v=0ByMKtj98tU)
 - [Cinematicas | Parte 7 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=4C7p4RgF2nA)
-- [Jugando Fortnite pero Furro (y 2d jsjs)](https://www.youtube.com/watch?v=sLWyzm1vqhg)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
