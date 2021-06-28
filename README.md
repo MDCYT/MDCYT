@@ -41,7 +41,7 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
-- [Jugando FNF Mods en Directo](https://www.youtube.com/watch?v=Nm2lD_pN-oA)
+- [MDC no era humano](https://www.youtube.com/watch?v=zG2YmDjWr_o)
 - [Jugando mods de FNF](https://www.youtube.com/watch?v=gpWq0Un4mbg)
 - [Programando con el MDC | Parte 1 (Variables, Tipos de Datos y Switch) - Node.js](https://www.youtube.com/watch?v=IxZRorvz9F4)
 - [Programando un mod de FNF](https://www.youtube.com/watch?v=lQgDN8LfIk0)
