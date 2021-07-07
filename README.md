@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Jugando Mods con el MDC - Especial 3k Subs](https://www.youtube.com/watch?v=yyYWzFlF9b4)
 - [Flippy sing Expurgation - Friday Night Funkin' Mods](https://www.youtube.com/watch?v=cvomYkuJ6Pg)
 - [Programando en Vivo con MDC](https://www.youtube.com/watch?v=9r3cg6xrR3g)
 - [No More Flippy :(...](https://www.youtube.com/watch?v=44TKuq7LWfg)
 - [Jugando luego de que mi comunidad me funo](https://www.youtube.com/watch?v=4VVHe1sDwAU)
-- [VS Denia (FULL WEEK) - Friday Night Funkin Mods](https://www.youtube.com/watch?v=nvPtK_DS-Ak)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
