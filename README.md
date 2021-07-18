@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MDCYT/FNF-MDC-Engine/pull/1) in [MDCYT/FNF-MDC-Engine](https://github.com/MDCYT/FNF-MDC-Engine)
+1. 🎉 Merged PR [#2](https://github.com/MDCYT/Notepad-Page/pull/2) in [MDCYT/Notepad-Page](https://github.com/MDCYT/Notepad-Page)
 <!--END_SECTION:activity-->
 
 </details>
