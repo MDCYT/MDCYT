@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [VS Fireboy & Watergirl (FULL WEEK) - Friday Night Funkin Mods](https://www.youtube.com/watch?v=_KhZPDqFSnw)
 - [Flechas Especiales (Tricky, HD, Bob, etc) | Parte 8 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=gi89o47bNd4)
 - [El FNF de Впятницувечеромфанкинг.ru estaba medio raro](https://www.youtube.com/watch?v=iuasE8tgiJE)
 - [Jugando Mods de FNF](https://www.youtube.com/watch?v=_i1i0wfykuo)
 - [Programando Mods de FNF](https://www.youtube.com/watch?v=VynS5pUfGY0)
-- [Jugando Mods con el MDC - Especial 3k Subs](https://www.youtube.com/watch?v=yyYWzFlF9b4)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
