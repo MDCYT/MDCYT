@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Pov: Contratas Movistar](https://www.youtube.com/watch?v=LQlEs9b23dU)
 - [MordeTwi Magic -  MordeTwi Mod - Friday Night Funkin Mods](https://www.youtube.com/watch?v=vogWnUz7d9k)
 - [Jugando mods de FNF](https://www.youtube.com/watch?v=FyuCrSXtR90)
 - [V.S Flippy:Flipped Out! (Demo) - Happy Tree Friends FNF Mod - Friday Night Funkin Mods](https://www.youtube.com/watch?v=TGvZA_1Kkes)
 - [VS Fireboy & Watergirl (FULL WEEK) - Friday Night Funkin Mods](https://www.youtube.com/watch?v=_KhZPDqFSnw)
-- [Flechas Especiales (Tricky, HD, Bob, etc) | Parte 8 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=gi89o47bNd4)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
