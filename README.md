@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MDCYT/FNF-MDC-Engine/pull/2) in [MDCYT/FNF-MDC-Engine](https://github.com/MDCYT/FNF-MDC-Engine)
+1. 🗣 Commented on [#2](https://github.com/MDCYT/MDCYT/issues/2) in [MDCYT/MDCYT](https://github.com/MDCYT/MDCYT)
 <!--END_SECTION:activity-->
 
 </details>
