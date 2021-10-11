@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Funkin Premiere (Fixed) - Presentación de mods de Friday Night Funkin hechos por hispanohablantes.](https://www.youtube.com/watch?v=W_XFeBaGrQI)
 - [Chile 27 de febrero 2010](https://www.youtube.com/watch?v=eAQpDbJszBU)
 - [Jugando Arsenal y Funkin Friday](https://www.youtube.com/watch?v=QhlCJs_OqyE)
 - [Custom Menu | Parte 9 de como modear Friday Night Funkin'](https://www.youtube.com/watch?v=1PpldOoLoo4)
 - [Zardy x Memz Virus - Clip by: @andres_tiktok_venezuela (Via: TikTok)](https://www.youtube.com/watch?v=WSn0CSWoPSU)
-- [Aquino x Nimu (Date Week Skin) - Aquino x Nimu FNF Mod - Friday Night Funkin Mods](https://www.youtube.com/watch?v=S1OXiRT-OGs)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
