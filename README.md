@@ -42,9 +42,9 @@
 
 <!-- YOUTUBE:START -->
 - [Tenemos que hablar... #Teamseas](https://www.youtube.com/watch?v=nS5aOQ-6F-A)
-- [Bf Fall's to DreamLand - VS Kirby - Friday Night Funkin Mods](https://www.youtube.com/watch?v=zkcgwXUM4xA)
+- [Bf Fall&#39;s to DreamLand - VS Kirby - Friday Night Funkin Mods](https://www.youtube.com/watch?v=zkcgwXUM4xA)
 - [Vs. Parkas - Shitpost Mod - Friday Night Funkin Mods](https://www.youtube.com/watch?v=4bTuACdo7bs)
-- [Funkin Premiere (Fixed) - Presentación de mods de Friday Night Funkin hechos por hispanohablantes.](https://www.youtube.com/watch?v=W_XFeBaGrQI)
+- [Funkin Premiere &lpar;Fixed&rpar; - Presentación de mods de Friday Night Funkin hechos por hispanohablantes.](https://www.youtube.com/watch?v=W_XFeBaGrQI)
 - [Jugando Arsenal, LoL](https://www.youtube.com/watch?v=ck8SPt8_H8o)
 <!-- YOUTUBE:END -->
 
