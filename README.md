@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MDCYT/MDCYT/issues/2) in [MDCYT/MDCYT](https://github.com/MDCYT/MDCYT)
+1. 🎉 Merged PR [#7](https://github.com/MDCYT/Any-Bot/pull/7) in [MDCYT/Any-Bot](https://github.com/MDCYT/Any-Bot)
 <!--END_SECTION:activity-->
 
 </details>
