@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MDCYT/Any-Bot/pull/8) in [MDCYT/Any-Bot](https://github.com/MDCYT/Any-Bot)
+1. ❌ Closed PR [#1](https://github.com/MDCYT/fake-iplogger/pull/1) in [MDCYT/fake-iplogger](https://github.com/MDCYT/fake-iplogger)
 <!--END_SECTION:activity-->
 
 </details>
