@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/MDCYT/fake-iplogger/pull/1) in [MDCYT/fake-iplogger](https://github.com/MDCYT/fake-iplogger)
+1. 🗣 Commented on [#98](https://github.com/sabattle/CalypsoBot/issues/98) in [sabattle/CalypsoBot](https://github.com/sabattle/CalypsoBot)
 <!--END_SECTION:activity-->
 
 </details>
