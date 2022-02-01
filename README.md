@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/sabattle/CalypsoBot/issues/98) in [sabattle/CalypsoBot](https://github.com/sabattle/CalypsoBot)
+1. 🎉 Merged PR [#9](https://github.com/MDCYT/Any-Bot/pull/9) in [MDCYT/Any-Bot](https://github.com/MDCYT/Any-Bot)
 <!--END_SECTION:activity-->
 
 </details>
