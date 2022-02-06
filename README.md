@@ -41,11 +41,11 @@
 ### 📺 Mis ultimos videos de Youtube
 
 <!-- YOUTUBE:START -->
+- [Programando con el MDC | Parte 3 &lpar;Express, Query, Params, etc&rpar; - Node.js](https://www.youtube.com/watch?v=4pJ4uo_ew2c)
 - [Programando por navidad](https://www.youtube.com/watch?v=PkzwWRU5A4k)
 - [Programando con el MDC | Parte 2 &lpar;Funciones, Dependencias, Async Await&rpar; - Node.js](https://www.youtube.com/watch?v=_kdsIu9_1Vk)
 - [Tenemos que hablar... #Teamseas](https://www.youtube.com/watch?v=nS5aOQ-6F-A)
 - [Bf Fall&#39;s to DreamLand - VS Kirby - Friday Night Funkin Mods](https://www.youtube.com/watch?v=zkcgwXUM4xA)
-- [Vs. Parkas - Shitpost Mod - Friday Night Funkin Mods](https://www.youtube.com/watch?v=4bTuACdo7bs)
 <!-- YOUTUBE:END -->
 
 ➡️ [Más videos...](https://youtube.com/c/MDCPE)
