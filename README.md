@@ -1,12 +1,12 @@
 ### Hola, soy José Antonio Ortiz Férnandez 👋
 
 [![Website](https://img.shields.io/website?label=mycommand.xyz&style=for-the-badge&url=https%3A%2F%2Fmycommand.xyz)](https://mycommand.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FridayProblems?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMDCYT&screen_name=software_mdc)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MDC_DEV?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMDCYT&screen_name=MDC_DEV)
 
 ## Soy un desarrollador web, vendedor de hosting web, y programador basico en node.js!
 
 - 🔭 Actualmente estoy trabajando en [My Command Hosting](https://shop.mycommand.xyz)!
-- 🌱 Actualmente en 5to de Secundaria
+- 🌱 Actualmente en preparandome para la Universidad
 - 👯 Siempre dispuesto a aprender más
 - 🥅 Metas 2020-2021: Lanzar al publico [My Command Hosting](https://shop.mycommand.xyz)
 
