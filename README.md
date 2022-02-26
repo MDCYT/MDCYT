@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/MDCYT/Any-Bot/pull/17) in [MDCYT/Any-Bot](https://github.com/MDCYT/Any-Bot)
+1. 🎉 Merged PR [#18](https://github.com/MDCYT/Any-Bot/pull/18) in [MDCYT/Any-Bot](https://github.com/MDCYT/Any-Bot)
 <!--END_SECTION:activity-->
 
 </details>
