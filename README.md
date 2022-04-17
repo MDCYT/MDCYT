@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MDCYT/Funkin-Master-Modded/pull/6) in [MDCYT/Funkin-Master-Modded](https://github.com/MDCYT/Funkin-Master-Modded)
+1. 🎉 Merged PR [#8](https://github.com/MDCYT/Funkin-Master-Modded/pull/8) in [MDCYT/Funkin-Master-Modded](https://github.com/MDCYT/Funkin-Master-Modded)
 <!--END_SECTION:activity-->
 
 </details>
