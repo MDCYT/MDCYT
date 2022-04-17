@@ -56,7 +56,7 @@
   <summary>⚡ Actividad Reciente en GitHub</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MDCYT/wordle-mdc/pull/1) in [MDCYT/wordle-mdc](https://github.com/MDCYT/wordle-mdc)
+1. 🎉 Merged PR [#6](https://github.com/MDCYT/Funkin-Master-Modded/pull/6) in [MDCYT/Funkin-Master-Modded](https://github.com/MDCYT/Funkin-Master-Modded)
 <!--END_SECTION:activity-->
 
 </details>
