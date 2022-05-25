@@ -140,4 +140,4 @@ jobs:
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@MDC
-          plugin_wakatime_user: MDC
+          plugin_wakatime_user: MDCDEV
