@@ -13,13 +13,10 @@
   
 
 - ❓ You can ask me about **Node.js** programming with peace of mind.  
-  
-
-- ⚡ I'm a Discord partner  
-<div align="center">   
+  <div align="center">   
 
 [
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/696491260071903233?theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/696491260071903233)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1103388964485869609?theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1103388964485869609)
 
 </div>
   
