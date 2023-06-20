@@ -23,6 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [La inteligencia artificial: una herramienta revolucionaria para el futuro](https://blog.mdcdev.me/la-inteligencia-artificial-una-herramienta-revolucionaria-para-el-futuro)
+- [¿Cómo empezar a usar los Linked Roles?](https://blog.mdcdev.me/como-empezar-a-usar-los-linked-roles)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
