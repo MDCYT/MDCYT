@@ -51,4 +51,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdcyt&" alt="mdcyt" /></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   8 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   46.42 %
+TypeScript   8 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   42.45 %
+JSON         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Haxe         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+```
+
 <!--END_SECTION:waka-->
