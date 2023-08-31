@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creando una API sencilla con Node.js: Guía paso a paso](https://blog.mdcdev.me/creando-una-api-sencilla-con-nodejs-guia-paso-a-paso)
 - [Dominando el uso efectivo de useState en React: Guía completa](https://blog.mdcdev.me/dominando-el-uso-efectivo-de-usestate-en-react-guia-completa)
 - [La inteligencia artificial: una herramienta revolucionaria para el futuro](https://blog.mdcdev.me/la-inteligencia-artificial-una-herramienta-revolucionaria-para-el-futuro)
 - [¿Cómo empezar a usar los Linked Roles?](https://blog.mdcdev.me/como-empezar-a-usar-los-linked-roles)
