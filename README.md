@@ -55,7 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Haxe   7 mins          █████████████████████████   100.00 %
+TypeScript   51 mins         █████████████████████▒░░░   85.00 %
+Haxe         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
