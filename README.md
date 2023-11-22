@@ -55,7 +55,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Haxe         1 min           █████████████████████▒░░░   85.00 %
+JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
 <!--END_SECTION:waka-->
