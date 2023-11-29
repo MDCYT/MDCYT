@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desbloqueando el Futuro de los Juegos: NFTs y la Revolución de la Web 3.0](https://blog.mdcdev.me/desbloqueando-el-futuro-de-los-juegos-nfts-y-la-revolucion-de-la-web-30)
 - [Iniciando con TypeScript: Una Guía Paso a Paso](https://blog.mdcdev.me/iniciando-con-typescript-una-guia-paso-a-paso)
 - [Creando un Chat en Tiempo Real con Socket.io: Guía Completa](https://blog.mdcdev.me/creando-un-chat-en-tiempo-real-con-socketio-guia-completa)
 - [Creando una API sencilla con Node.js: Guía paso a paso](https://blog.mdcdev.me/creando-una-api-sencilla-con-nodejs-guia-paso-a-paso)
-- [Dominando el uso efectivo de useState en React: Guía completa](https://blog.mdcdev.me/dominando-el-uso-efectivo-de-usestate-en-react-guia-completa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
