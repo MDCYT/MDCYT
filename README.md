@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Astro: Navegando las Estrellas del Desarrollo Web Moderno](https://blog.mdcdev.me/astro-navegando-las-estrellas-del-desarrollo-web-moderno)
 - [Desbloqueando el Futuro de los Juegos: NFTs y la Revolución de la Web 3.0](https://blog.mdcdev.me/desbloqueando-el-futuro-de-los-juegos-nfts-y-la-revolucion-de-la-web-30)
 - [Iniciando con TypeScript: Una Guía Paso a Paso](https://blog.mdcdev.me/iniciando-con-typescript-una-guia-paso-a-paso)
 - [Creando un Chat en Tiempo Real con Socket.io: Guía Completa](https://blog.mdcdev.me/creando-un-chat-en-tiempo-real-con-socketio-guia-completa)
-- [Creando una API sencilla con Node.js: Guía paso a paso](https://blog.mdcdev.me/creando-una-api-sencilla-con-nodejs-guia-paso-a-paso)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
