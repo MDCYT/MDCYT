@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Diseño Web Elevado: Descubre el Poder de Material Design en tu Proyecto](https://blog.mdcdev.me/diseno-web-elevado-descubre-el-poder-de-material-design-en-tu-proyecto)
 - [Astro: Navegando las Estrellas del Desarrollo Web Moderno](https://blog.mdcdev.me/astro-navegando-las-estrellas-del-desarrollo-web-moderno)
 - [Desbloqueando el Futuro de los Juegos: NFTs y la Revolución de la Web 3.0](https://blog.mdcdev.me/desbloqueando-el-futuro-de-los-juegos-nfts-y-la-revolucion-de-la-web-30)
 - [Iniciando con TypeScript: Una Guía Paso a Paso](https://blog.mdcdev.me/iniciando-con-typescript-una-guia-paso-a-paso)
-- [Creando un Chat en Tiempo Real con Socket.io: Guía Completa](https://blog.mdcdev.me/creando-un-chat-en-tiempo-real-con-socketio-guia-completa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
