@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Celebrando el Amor Incondicional: Un Tributo al Día de la Madre](https://blog.mdcdev.me/celebrando-el-amor-incondicional-un-tributo-al-dia-de-la-madre)
 - [Diseño Web Elevado: Descubre el Poder de Material Design en tu Proyecto](https://blog.mdcdev.me/diseno-web-elevado-descubre-el-poder-de-material-design-en-tu-proyecto)
 - [Astro: Navegando las Estrellas del Desarrollo Web Moderno](https://blog.mdcdev.me/astro-navegando-las-estrellas-del-desarrollo-web-moderno)
 - [Desbloqueando el Futuro de los Juegos: NFTs y la Revolución de la Web 3.0](https://blog.mdcdev.me/desbloqueando-el-futuro-de-los-juegos-nfts-y-la-revolucion-de-la-web-30)
-- [Iniciando con TypeScript: Una Guía Paso a Paso](https://blog.mdcdev.me/iniciando-con-typescript-una-guia-paso-a-paso)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
